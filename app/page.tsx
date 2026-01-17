@@ -282,7 +282,7 @@ export default function Home() {
         <span className="text-muted-foreground">|</span>
         <p className="">Käytetty rajapinta: <Link href="https://spot-hinta.fi" target="_blank" className="text-primary">spot-hinta.fi</Link></p>
         <span className="text-muted-foreground">|</span>
-        <p>Lähdekoodi: <Link href="https://github.com/eino-it/spot-hinta" target="_blank" className="text-primary">github.com/eino-it/spot-hinta</Link></p>
+        <p>Lähdekoodi: <Link href="https://github.com/EinoPitkala/smartspot" target="_blank" className="text-primary">github.com/EinoPitkala/smartspot</Link></p>
       </footer>
     </div>
   )
